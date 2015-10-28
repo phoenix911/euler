@@ -1,0 +1,138 @@
+<html lang="en">&#13;
+<head>&#13;
+<meta charset="utf-8"/>&#13;
+<meta name="author" content="Colin Hughes"/>&#13;
+<meta name="description" content="A website dedicated to the fascinating world of mathematics and programming"/>&#13;
+<meta name="keywords" content="programming,mathematics,problems,puzzles"/>&#13;
+<title>Problem 1 - Project Euler</title>&#13;
+<link rel="shortcut icon" href="favicon.ico"/>&#13;
+<link rel="stylesheet" type="text/css" href="themes/default/style_default.css"/>&#13;
+&#13;
+<script type="text/x-mathjax-config">&#13;
+   MathJax.Hub.Config({&#13;
+      jax: ["input/TeX", "output/HTML-CSS"],&#13;
+      tex2jax: {&#13;
+         inlineMath: [ ["$","$"], ["\\(","\\)"] ],&#13;
+         displayMath: [ ["$$","$$"], ["\\[","\\]"] ],&#13;
+         processEscapes: true&#13;
+      },&#13;
+      "HTML-CSS": { availableFonts: ["TeX"] }&#13;
+   });&#13;
+</script>&#13;
+<!--[if !IE]><!-->&#13;
+<script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML-full,Safe"/>&#13;
+<!--<![endif]-->&#13;
+<!--[if IE]>
+<script type="text/javascript" src="//cdn.mathjax.org/mathjax/2.4-latest/MathJax.js?config=TeX-AMS_HTML-full,Safe"></script>
+<![endif]-->&#13;
+</head>&#13;
+&#13;
+<body>&#13;
+<div id="container">&#13;
+<div id="header" class="noprint">&#13;
+<div id="nav" class="noprint">&#13;
+<ul>&#13;
+<li><a href="about" title="About" accesskey="h">About</a></li>
+<li id="current"><a href="archives" title="Archives" accesskey="1">Archives</a></li>
+<li><a href="recent" title="Recent" accesskey="2">Recent</a></li>
+<li><a href="news" title="News" accesskey="3">News</a></li>
+<li><a href="register" title="Register" accesskey="4">Register</a></li>
+<li><a href="sign_in" title="Sign In" accesskey="5">Sign In</a></li>
+</ul>&#13;
+</div>&#13;
+&#13;
+<div id="logo" class="noprint">&#13;
+   <div>Project Euler<span>.net</span></div>&#13;
+</div>&#13;
+</div>&#13;
+&#13;
+<div id="info_panel"><a href="rss2_euler.xml"><img src="images/icon_rss.png" alt="RSS Feed" title="RSS Feed"/></a><span class="info" style="cursor:pointer;"><a href="secure=clHaIYgkBGT6GS0G"><img src="images/icon_lock.png" alt="secure_icon"/></a><span style="color:#070;font-weight:bold;text-align:left;width:250px;right:10px;">You are currently using a secure connection</span></span></div>&#13;
+<div id="content">&#13;
+<div style="text-align:center;" class="print"><img src="images/print_page_logo.png" alt="projecteuler.net" style="border:none;"/></div>
+<h2>Multiples of 3 and 5</h2><div id="problem_info" class="info"><h3>Problem 1</h3><span>Published on Friday, 5th October 2001, 06:00 pm; Solved by 507142; Difficulty rating: 5%</span></div>&#13;
+<div class="problem_content" role="problem">&#13;
+<p>If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.</p>
+<p>Find the sum of all the multiples of 3 or 5 below 1000.</p>
+</div><br/>&#13;
+<br/></div>&#13;
+&#13;
+<div id="footer" class="noprint">&#13;
+Project Euler: <a href="copyright">Copyright Information</a> | <a href="privacy">Privacy Policy</a>&#13;
+<!--/Creative Commons License--><!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+   <Work rdf:about="">
+      <license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" />
+   <dc:type rdf:resource="http://purl.org/dc/dcmitype/Text" />
+   </Work>
+   <License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.0/uk/"><permits rdf:resource="http://web.resource.org/cc/Reproduction"/><permits rdf:resource="http://web.resource.org/cc/Distribution"/><requires rdf:resource="http://web.resource.org/cc/Notice"/><requires rdf:resource="http://web.resource.org/cc/Attribution"/><prohibits rdf:resource="http://web.resource.org/cc/CommercialUse"/><permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/><requires rdf:resource="http://web.resource.org/cc/ShareAlike"/></License></rdf:RDF> -->&#13;
+</div>&#13;
+</div>&#13;
+</body>&#13;
+</html>
+<html lang="en">&#13;
+<head>&#13;
+<meta charset="utf-8"/>&#13;
+<meta name="author" content="Colin Hughes"/>&#13;
+<meta name="description" content="A website dedicated to the fascinating world of mathematics and programming"/>&#13;
+<meta name="keywords" content="programming,mathematics,problems,puzzles"/>&#13;
+<title>Problem 1 - Project Euler</title>&#13;
+<link rel="shortcut icon" href="favicon.ico"/>&#13;
+<link rel="stylesheet" type="text/css" href="themes/default/style_default.css"/>&#13;
+&#13;
+<script type="text/x-mathjax-config">&#13;
+   MathJax.Hub.Config({&#13;
+      jax: ["input/TeX", "output/HTML-CSS"],&#13;
+      tex2jax: {&#13;
+         inlineMath: [ ["$","$"], ["\\(","\\)"] ],&#13;
+         displayMath: [ ["$$","$$"], ["\\[","\\]"] ],&#13;
+         processEscapes: true&#13;
+      },&#13;
+      "HTML-CSS": { availableFonts: ["TeX"] }&#13;
+   });&#13;
+</script>&#13;
+<!--[if !IE]><!-->&#13;
+<script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML-full,Safe"/>&#13;
+<!--<![endif]-->&#13;
+<!--[if IE]>
+<script type="text/javascript" src="//cdn.mathjax.org/mathjax/2.4-latest/MathJax.js?config=TeX-AMS_HTML-full,Safe"></script>
+<![endif]-->&#13;
+</head>&#13;
+&#13;
+<body>&#13;
+<div id="container">&#13;
+<div id="header" class="noprint">&#13;
+<div id="nav" class="noprint">&#13;
+<ul>&#13;
+<li><a href="about" title="About" accesskey="h">About</a></li>
+<li id="current"><a href="archives" title="Archives" accesskey="1">Archives</a></li>
+<li><a href="recent" title="Recent" accesskey="2">Recent</a></li>
+<li><a href="news" title="News" accesskey="3">News</a></li>
+<li><a href="register" title="Register" accesskey="4">Register</a></li>
+<li><a href="sign_in" title="Sign In" accesskey="5">Sign In</a></li>
+</ul>&#13;
+</div>&#13;
+&#13;
+<div id="logo" class="noprint">&#13;
+   <div>Project Euler<span>.net</span></div>&#13;
+</div>&#13;
+</div>&#13;
+&#13;
+<div id="info_panel"><a href="rss2_euler.xml"><img src="images/icon_rss.png" alt="RSS Feed" title="RSS Feed"/></a><span class="info" style="cursor:pointer;"><a href="secure=clHaIYgkBGT6GS0G"><img src="images/icon_lock.png" alt="secure_icon"/></a><span style="color:#070;font-weight:bold;text-align:left;width:250px;right:10px;">You are currently using a secure connection</span></span></div>&#13;
+<div id="content">&#13;
+<div style="text-align:center;" class="print"><img src="images/print_page_logo.png" alt="projecteuler.net" style="border:none;"/></div>
+<h2>Multiples of 3 and 5</h2><div id="problem_info" class="info"><h3>Problem 1</h3><span>Published on Friday, 5th October 2001, 06:00 pm; Solved by 507142; Difficulty rating: 5%</span></div>&#13;
+<div class="problem_content" role="problem">&#13;
+<p>If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.</p>
+<p>Find the sum of all the multiples of 3 or 5 below 1000.</p>
+</div><br/>&#13;
+<br/></div>&#13;
+&#13;
+<div id="footer" class="noprint">&#13;
+Project Euler: <a href="copyright">Copyright Information</a> | <a href="privacy">Privacy Policy</a>&#13;
+<!--/Creative Commons License--><!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+   <Work rdf:about="">
+      <license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" />
+   <dc:type rdf:resource="http://purl.org/dc/dcmitype/Text" />
+   </Work>
+   <License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.0/uk/"><permits rdf:resource="http://web.resource.org/cc/Reproduction"/><permits rdf:resource="http://web.resource.org/cc/Distribution"/><requires rdf:resource="http://web.resource.org/cc/Notice"/><requires rdf:resource="http://web.resource.org/cc/Attribution"/><prohibits rdf:resource="http://web.resource.org/cc/CommercialUse"/><permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/><requires rdf:resource="http://web.resource.org/cc/ShareAlike"/></License></rdf:RDF> -->&#13;
+</div>&#13;
+<

@@ -1,0 +1,27 @@
+[<p>In light of the last news item in which I appealed to the Project Euler community to assist in identifying the method of the recent hack I have been 
+completely overwhelmed in two respects: literally the number of emails received and by the generosity of your time, expertise, and willingness to help. Thank 
+you!</p>, <p>I have already responded to some emails and thanks to their insights a few bugs have now been exterminated.</p>, <p>One common query has been 
+whether or not the scripts for the website can be made publicly available. This is something I am reluctant to do, but in due time I will be taking up some very 
+kind offers to help by forming a small team of developers to view the scripts privately.</p>, <p>Be assured that I have read every email received, but please do 
+not be offended if I am unable to reply to everyone. If you have made an offer to help but you are not invited initially I may yet approach you at some point in 
+the future. I truly value every response.</p>, <p>Project Euler is back. However, it has been necessary to restore the database to 28 July 2015 which means that 
+a number of members will have lost a couple of days of progress. It is also with ever greater sadness I report that I have been unable to identify the method of 
+attack used to hack the database. It is quite possible that a similar attack may never happen again or it may happen again and again. If a similar hack occurs 
+then I will be forced to restore the database once more. Clearly this is neither ideal nor can it continue indefinitely. For this reason we are calling on some 
+of you, members of the Project Euler community, with expertise in web security to help identify vulnerabilities in the website. If anyone is able to provide 
+information then not only will it be met with my own personal gratitude but with the appreciation of the rest of the members. Otherwise, if the method of attack 
+is not discovered, and the website continues to be hacked, then the current content (problems and threads) will be permanently converted into a static website; 
+an alternative method of publishing future problems will need to be determined.</p>, <p>So if you have the right skills and you would like to help the community 
+by auditing (hacking) the website then you are invited to do so. However, I would request that any testing is done as a proof-of-concept rather than being 
+destructive in nature. If you do identify a potential vulnerability then I would also ask that you do not publish your findings publicly and contact me privately 
+via email: loophole@projecteuler.net. You have my personal assurance that any constructive actions will receive full amnesty and your communications will be 
+handled in the strictest of confidence.</p>, <p>Be aware that the database could be restored to a previous state at any time so please keep a record of your 
+answers elsewhere. If you feel uncomfortable using this website at the moment then the temporary website (containing the problem set with an answer checker) has 
+been made permanently available at <a href="http://static.projecteuler.net">http://static.projecteuler.net</a>.</p>, <p>Sadly it seems that a malicious user has 
+discovered a way to modify the contents of the DB. It is currently unclear how this occurred so in the meantime a decision has been made to take Project Euler 
+offline and replace it with a temporary website. This will ensure that the problems, which are the primary reason Project Euler exists, remain accessible. During 
+this time you will be pleased to learn that it is possible to check answers.</p>, <p>Further updates will be made through this news feed.</p>, <p>Problem #522: 
+(Sunday, 28th June 2015, 04:00 am servertime) will be the last problem before the summer break.<br/>\r\nWe will be back Sunday, September 6th, 2015.</p>, <p>A 
+number of new awards have been added and there has been a minor change to one of the awards.</p>, <p>We hope that you enjoy these new awards and they add to the 
+fun as you continue solving the problems.</p>]
+None
