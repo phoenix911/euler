@@ -25,6 +25,8 @@ mq,lq = totalQue('https://projecteuler.net/recent')
 
 
 i = 1
+op = csv.writer(open("op911.csv", "ab"))
+op.writerow(('sl', 'title', 'questionHTML', 'date', 'month', 'year', 'solved by','difficulty rating'))
 while i <= mq:
     url = link(i)
     wPage = requests.get(url)
@@ -44,7 +46,6 @@ while i <= mq:
     yy = date[-3][:-1]
     ##questiom+
     questionHTML = str(soup.find("div", {"class": "problem_content"}))[45:-7]
-    op = csv.writer(open("op9.csv", "ab"))
     if i < lq:
         dr = int(re.findall(':(.*)%', cac[-1])[0])
         cac1 = re.split(' ', cac[1])
