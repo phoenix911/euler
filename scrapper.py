@@ -19,6 +19,8 @@ def scrapper(i):
         published_date = re.search(',(.*),',basic_info).group(1)
         difficulty_rating = re.search('rating:(.*)%',basic_info).group(1)
         soup = bs4.BeautifulSoup(page.text,"lxml")
+        a=soup.h2
+        print a
         q=soup.find_all('p').__str__()
         qu = re.sub('<p>','',q)
         qu = re.sub('</p>','',qu)
@@ -30,4 +32,4 @@ def scrapper(i):
         op.writerow([sl,number,name,qu,difficulty_rating,published_date])
     return n
 
-print scrapper(522)
+print scrapper(1)

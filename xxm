@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="Colin Hughes" name="author"/>
+<meta content="A website dedicated to the fascinating world of mathematics and programming" name="description"/>
+<meta content="programming,mathematics,problems,puzzles" name="keywords"/>
+<title>Recent Problems - Project Euler</title>
+<link href="favicon.ico" rel="shortcut icon"/>
+<link href="themes/default/style_default.css" rel="stylesheet" type="text/css"/>
+<script type="text/x-mathjax-config">
+   MathJax.Hub.Config({
+      jax: ["input/TeX", "output/HTML-CSS"],
+      tex2jax: {
+         inlineMath: [ ["$","$"], ["\\(","\\)"] ],
+         displayMath: [ ["$$","$$"], ["\\[","\\]"] ],
+         processEscapes: true
+      },
+      "HTML-CSS": { availableFonts: ["TeX"] }
+   });
+</script>
+<!--[if !IE]><!-->
+<script src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML-full,Safe" type="text/javascript"></script>
+<!--<![endif]-->
+<!--[if IE]>
+<script type="text/javascript" src="//cdn.mathjax.org/mathjax/2.4-latest/MathJax.js?config=TeX-AMS_HTML-full,Safe"></script>
+<![endif]-->
+</head>
+<body>
+<div id="container">
+<div class="noprint" id="header">
+<div class="noprint" id="nav">
+<ul>
+<li><a accesskey="h" href="about" title="About">About</a></li>
+<li><a accesskey="1" href="archives" title="Archives">Archives</a></li>
+<li id="current"><a accesskey="2" href="recent" title="Recent">Recent</a></li>
+<li><a accesskey="3" href="news" title="News">News</a></li>
+<li><a accesskey="4" href="register" title="Register">Register</a></li>
+<li><a accesskey="5" href="sign_in" title="Sign In">Sign In</a></li>
+</ul>
+</div>
+<div class="noprint" id="logo">
+<div>Project Euler<span>.net</span></div>
+</div>
+</div>
+<div id="info_panel"><a href="rss2_euler.xml"><img alt="RSS Feed" src="images/icon_rss.png" title="RSS Feed"/></a><span class="info" style="cursor:pointer;"><a href="secure=LuejEi1L7DnMibzd"><img alt="secure_icon" src="images/icon_lock.png"/></a><span style="color:#070;font-weight:bold;text-align:left;width:250px;right:10px;">You are currently using a secure connection</span></span></div>
+<div id="content">
+<div id="problems_table_page">
+<h2>Recent Problems</h2>
+<p>The recent problems table shows the 10 most recent problems published by Project Euler.<br/>Click the description/title of the problem to view details and submit your answer.</p><p>As you are new to Project Euler then you may wish to start with the problems <a href="archives">Archives</a>.
+</p><table class="grid" id="problems_table">
+<tr><th class="id_column">ID</th><th class="title_column">Description / Title</th><th class="solved_by_column">Solved By</th></tr>
+<tr><td class="id_column">531</td><td><a href="problem=531" title="Published on Sunday, 25th October 2015, 04:00 am">Chinese leftovers</a></td><td><div style="text-align:center;"><a href="fastest=531" title="View fastest solvers">214</a></div></td></tr>
+<tr><td class="id_column">530</td><td><a href="problem=530" title="Published on Sunday, 18th October 2015, 01:00 am">GCD of Divisors</a></td><td><div style="text-align:center;"><a href="fastest=530" title="View fastest solvers">105</a></div></td></tr>
+<tr><td class="id_column">529</td><td><a href="problem=529" title="Published on Saturday, 10th October 2015, 10:00 pm">10-substrings</a></td><td><div style="text-align:center;"><a href="fastest=529" title="View fastest solvers">80</a></div></td></tr>
+<tr><td class="id_column">528</td><td><a href="problem=528" title="Published on Saturday, 3rd October 2015, 07:00 pm">Constrained Sums</a></td><td><div style="text-align:center;"><a href="fastest=528" title="View fastest solvers">120</a></div></td></tr>
+<tr><td class="id_column">527</td><td><a href="problem=527" title="Published on Saturday, 26th September 2015, 04:00 pm">Randomized Binary Search</a></td><td><div style="text-align:center;"><a href="fastest=527" title="View fastest solvers">237</a></div></td></tr>
+<tr><td class="id_column">526</td><td><a href="problem=526" title="Published on Saturday, 19th September 2015, 01:00 pm">Largest prime factors of consecutive numbers</a></td><td><div style="text-align:center;"><a href="fastest=526" title="View fastest solvers">146</a></div></td></tr>
+<tr><td class="id_column">525</td><td><a href="problem=525" title="Published on Sunday, 13th September 2015, 10:00 am">Rolling Ellipse</a></td><td><div style="text-align:center;"><a href="fastest=525" title="View fastest solvers">200</a></div></td></tr>
+<tr><td class="id_column">524</td><td><a href="problem=524" title="Published on Sunday, 6th September 2015, 07:00 am">First Sort II</a></td><td><div style="text-align:center;"><a href="fastest=524" title="View fastest solvers">109</a></div></td></tr>
+<tr><td class="id_column">523</td><td><a href="problem=523" title="Published on Sunday, 6th September 2015, 07:00 am">First Sort I</a></td><td><div style="text-align:center;"><a href="fastest=523" title="View fastest solvers">305</a></div></td></tr>
+<tr><td class="id_column">522</td><td><a href="problem=522" title="Published on Sunday, 28th June 2015, 04:00 am">Hilbert's Blackout</a></td><td><div style="text-align:center;"><a href="fastest=522" title="View fastest solvers">119</a></div></td></tr>
+</table>
+<br/>
+</div></div>
+<div class="noprint" id="footer">
+Project Euler: <a href="copyright">Copyright Information</a> | <a href="privacy">Privacy Policy</a>
+<!--/Creative Commons License--><!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+   <Work rdf:about="">
+      <license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" />
+   <dc:type rdf:resource="http://purl.org/dc/dcmitype/Text" />
+   </Work>
+   <License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.0/uk/"><permits rdf:resource="http://web.resource.org/cc/Reproduction"/><permits rdf:resource="http://web.resource.org/cc/Distribution"/><requires rdf:resource="http://web.resource.org/cc/Notice"/><requires rdf:resource="http://web.resource.org/cc/Attribution"/><prohibits rdf:resource="http://web.resource.org/cc/CommercialUse"/><permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/><requires rdf:resource="http://web.resource.org/cc/ShareAlike"/></License></rdf:RDF> -->
+</div>
+</div>
+</body>
+</html>
